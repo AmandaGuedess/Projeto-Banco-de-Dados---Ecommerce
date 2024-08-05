@@ -1,3 +1,5 @@
+Projeto de Banco de Dados para E-commerce
+
 Este projeto de banco de dados visa estruturar um sistema de e-commerce, garantindo a organização e a eficiência na gestão de informações sobre clientes, produtos, fornecedores, estoques, pedidos, formas de pagamento e entregas. O design do banco de dados foi elaborado para atender a necessidades específicas, como a diferenciação entre clientes pessoa física (PF) e pessoa jurídica (PJ), suportando diversas formas de pagamento e rastreamento de entregas.
 
 Estrutura do Banco de Dados:
